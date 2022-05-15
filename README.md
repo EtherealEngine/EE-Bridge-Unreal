@@ -10,5 +10,5 @@ Unreal SDK XREngine Alpha
 - Unreal Blueprints XREngine SDK
 
 ***Built on VaRest***
-https://github.com/ufna/VaRest
-https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
+- https://github.com/ufna/VaRest
+- https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
