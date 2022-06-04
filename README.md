@@ -51,6 +51,7 @@ Get a ticket for assignment to a gameserver instance
 
 https://github.com/XRFoundation/XREngine/blob/dev/packages/server-core/src/matchmaking/match-ticket-assignment/match-ticket-assignment.class.ts
 
+![image](https://user-images.githubusercontent.com/5104160/172028597-08e4c4cc-973b-4e4a-924a-1f508dfb4711.png)
 
 
 
