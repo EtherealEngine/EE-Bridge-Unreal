@@ -1,4 +1,5 @@
-# xrengine-unreal
+# XREngine Bridge - Unreal
+
 XREngine &lt;> Unreal Engine Backend Bridge
 
 Unreal SDK XREngine Alpha
@@ -6,6 +7,8 @@ Unreal SDK XREngine Alpha
 - Server Party Matchmaker
 - Unreal Game Server Lifecycle System
 - Unreal Blueprints XREngine SDK
+
+CMS and marketplace services coming soon
 
 ## Setup
 
