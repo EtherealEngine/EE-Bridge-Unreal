@@ -10,6 +10,8 @@ Unreal SDK XREngine Alpha
 
 CMS and marketplace services coming soon
 
+EXAMPLE https://github.com/XRFoundation/XREngine-Bridge-Unreal-Example
+
 ## Setup
 
 This guide assumes you have a working linux dedicated server build of you game.
