@@ -12,6 +12,8 @@ CMS and marketplace services coming soon
 
 EXAMPLE https://github.com/XRFoundation/XREngine-Bridge-Unreal-Example
 
+![Screenshot 2022-06-06 193750](https://user-images.githubusercontent.com/5104160/172299848-3e1c6a5f-ecd2-4562-a894-0d8b55e5b9e5.png)
+
 ## Setup
 
 This guide assumes you have a working linux dedicated server build of you game.
@@ -24,6 +26,12 @@ Preinstall Requirements
 - VaRest https://github.com/ufna/VaRest
    - https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
 - Agones SDK w/ Unreal tools https://agones.dev/site/docs/guides/client-sdks/unreal/
+
+VaREST wraps the XREngine Web API 
+
+knowledge required: Learn REST APIs, OpenAPI, Header based http auth, Verbs:Get/Post/etc, paylods, json
+
+![image](https://user-images.githubusercontent.com/5104160/172028597-08e4c4cc-973b-4e4a-924a-1f508dfb4711.png)
 
 All K8 control plane systems can be access via rest calls to the local network of the gameserver, the functionality of Agones can be done via adding a node in Blueprints.
 
@@ -56,7 +64,6 @@ Get a ticket for assignment to a gameserver instance
 
 https://github.com/XRFoundation/XREngine/blob/dev/packages/server-core/src/matchmaking/match-ticket-assignment/match-ticket-assignment.class.ts
 
-![image](https://user-images.githubusercontent.com/5104160/172028597-08e4c4cc-973b-4e4a-924a-1f508dfb4711.png)
 
 
 
