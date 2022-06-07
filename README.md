@@ -25,6 +25,7 @@ This guide assumes you have a working linux dedicated server build of you game.
 Preinstall Requirements
 - VaRest https://github.com/ufna/VaRest
    - https://www.notion.so/VaRest-UE4-Plugin-40b98c54fc184033b60a42e0e4753536
+   - VaREST Tuturials https://www.youtube.com/watch?v=B90jnsEJ6E0
 - Agones SDK w/ Unreal tools https://agones.dev/site/docs/guides/client-sdks/unreal/
 
 VaREST wraps the XREngine Web API 
