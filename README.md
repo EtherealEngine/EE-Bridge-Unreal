@@ -33,6 +33,26 @@ knowledge required: Learn REST APIs, OpenAPI, Header based http auth, Verbs:Get/
 
 ![image](https://user-images.githubusercontent.com/5104160/172028597-08e4c4cc-973b-4e4a-924a-1f508dfb4711.png)
 
+Targeting support for 4.26 and 4.27
+
+Trial implementations on epic games unreal examples for the XREngine bridge for Unreal
+
+https://github.com/XRFoundation/XRE-Bridge-Unreal/
+
+This bridge is wrapping OpenAPI endpoints presented by XREngine 
+
+https://api-dev.theoverlay.io/openapi/
+
+This first requires a generated bearer token for API autorization. OAuth API app digestion with socpes is coming soon!
+
+This can be found in the EnvVars of the XREngine cluster and in the XRE SQL Database
+
+<img width="1189" alt="Screen Shot 2022-06-04 at 4 25 43 PM" src="https://user-images.githubusercontent.com/5104160/172028647-084f7aa0-d358-4b15-b6be-5788ee7d7ec4.png">
+
+Blueprints multiplayer Unreal reference
+
+https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/Blueprints/
+
 All K8 control plane systems can be access via rest calls to the local network of the gameserver, the functionality of Agones can be done via adding a node in Blueprints.
 
 The XREngine matchmaker service exposes the default endopints for open match. 
