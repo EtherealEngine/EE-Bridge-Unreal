@@ -30,8 +30,8 @@ Preinstall Requirements
 
 ### Containerizaiton details
 
-= https://unrealcontainers.com/docs/use-cases/dedicated-servers
-= https://unrealcontainers.com/docs/use-cases/linux-installed-builds
+- https://unrealcontainers.com/docs/use-cases/dedicated-servers
+- https://unrealcontainers.com/docs/use-cases/linux-installed-builds
 - killer advanced use https://unrealcontainers.com/docs/use-cases/pixel-streaming
 - killer advanced use https://unrealcontainers.com/docs/use-cases/continuous-integration
 - killer advanced use https://unrealcontainers.com/docs/use-cases/linux-sandboxed-editor
