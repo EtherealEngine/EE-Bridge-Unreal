@@ -28,6 +28,14 @@ Preinstall Requirements
    - VaREST Tuturials https://www.youtube.com/watch?v=B90jnsEJ6E0
 - Agones SDK w/ Unreal tools https://agones.dev/site/docs/guides/client-sdks/unreal/
 
+### Containerizaiton details
+
+= https://unrealcontainers.com/docs/use-cases/dedicated-servers
+= https://unrealcontainers.com/docs/use-cases/linux-installed-builds
+- killer advanced use https://unrealcontainers.com/docs/use-cases/pixel-streaming
+- killer advanced use https://unrealcontainers.com/docs/use-cases/continuous-integration
+- killer advanced use https://unrealcontainers.com/docs/use-cases/linux-sandboxed-editor
+
 VaREST wraps the XREngine Web API 
 
 knowledge required: Learn REST APIs, OpenAPI, Header based http auth, Verbs:Get/Post/etc, paylods, json
