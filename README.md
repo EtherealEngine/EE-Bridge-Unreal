@@ -1,6 +1,10 @@
-# XREngine Bridge - Unreal
+# Ethereal Engine Bridge - Unreal
 
-XREngine &lt;> Unreal Engine Backend Bridge
+INTRO VIDEO
+
+[![Watch the video](https://img.youtube.com/vi/GbOpJRxkux8/default.jpg)](https://youtu.be/GbOpJRxkux8)
+
+https://www.youtube.com/watch?v=GbOpJRxkux8/
 
 Unreal SDK XREngine Alpha
 - User Management API
