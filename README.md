@@ -36,7 +36,18 @@ Preinstall Requirements
 - killer advanced use https://unrealcontainers.com/docs/use-cases/continuous-integration
 - killer advanced use https://unrealcontainers.com/docs/use-cases/linux-sandboxed-editor
 
-VaREST wraps the XREngine Web API 
+## Configuring gameserver
+
+register a process with ENV VARS or Unreal executable arguments
+
+https://docs.unrealengine.com/4.26/en-US/ProductionPipelines/CommandLineArguments/
+
+```
+TroveServer.exe IslandLobby.uproject /Trove/Maps/Island1?game=MyGameInfo?listen -lobbygame -server 127.0.0.1
+TroveServer.exe IsleOfDeath.uproject /Trove/Maps/IsleOfDeathStart?game=MyGameInfo?listen -stakedgame -server 127.0.0.1
+```
+
+## VaREST and wrapping the XREngine Web API 
 
 knowledge required: Learn REST APIs, OpenAPI, Header based http auth, Verbs:Get/Post/etc, paylods, json
 
